@@ -26,6 +26,12 @@ Day 2 – Python Practice ✅
 2. Print Function
 3. List Comprehensions
 
+Day 3 – Python Practice ✅
+
+1. Find the Runner-Up Score
+2. Finding the Second Lowest Grade
+3. Finding the Percentage
+
 ### 🛠️ Language
 
 - Python
