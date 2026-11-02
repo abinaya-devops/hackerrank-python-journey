@@ -32,6 +32,13 @@ Day 3 – Python Practice ✅
 2. Finding the Second Lowest Grade
 3. Finding the Percentage
 
+Day 4 – Python Lists
+
+1. Lists
+   
+🏆 Achievements
+Earned 3 Stars in Python on HackerRank ⭐⭐⭐
+
 ### 🛠️ Language
 
 - Python
