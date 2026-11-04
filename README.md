@@ -39,6 +39,16 @@ Day 4 – Python Lists
 🏆 Achievements
 Earned 3 Stars in Python on HackerRank ⭐⭐⭐
 
+Day 5 - Python Tuples
+
+1. Tuples
+
+   Code is correct but Hackerrank complier is problem so it's solved but in Hackerrank it's not
+
+Day 6 - Python Strings
+
+1. sWAP cASE
+   
 ### 🛠️ Language
 
 - Python
