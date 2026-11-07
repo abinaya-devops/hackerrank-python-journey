@@ -48,6 +48,10 @@ Day 5 - Python Tuples
 Day 6 - Python Strings
 
 1. sWAP cASE
+
+Day 7 - String Split and Join
+
+Day 8 - What's your Name?
    
 ### 🛠️ Language
 
