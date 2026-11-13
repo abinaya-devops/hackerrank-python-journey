@@ -54,6 +54,8 @@ Day 7 - String Split and Join
 Day 8 - What's your Name?
 
 Day 9 - String Mutable 
+
+Day 10 - Find a string
    
 ### 🛠️ Language
 
