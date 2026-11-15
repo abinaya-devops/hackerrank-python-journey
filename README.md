@@ -56,6 +56,8 @@ Day 8 - What's your Name?
 Day 9 - String Mutable 
 
 Day 10 - Find a string
+
+Day 11 - String Validators
    
 ### 🛠️ Language
 
